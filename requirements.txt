@@ -1,0 +1,8 @@
+numpy
+pandas
+pyarrow
+scipy
+statsmodels
+lightgbm
+torch          # CPU build
+pytest
